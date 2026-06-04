@@ -41,19 +41,6 @@ Check out the live documentation here:
 
 ---
 
-## 📂 Repository Structure
-
-api-docs/
-├── workflows #Actions for automation changes and creating Pages
-├── index.html # Main Swagger UI page
-├── openapi.yml # My OpenAPI specification (the source of truth)
-├── swagger-initializer.js # Swagger UI configuration (points to openapi.yml)
-├── .nojekyll # Disables Jekyll for GitHub Pages
-└── README.md # This file
-
-
----
-
 ## 🔧 What I Learned
 
 - How to read and write an **OpenAPI specification** (paths, parameters, components, schemas).
@@ -68,7 +55,7 @@ api-docs/
 I'm actively looking for opportunities as a **Technical Writer** or **Junior GIS Analyst**. If you like this project, feel free to reach out!
 
 - **GitHub**: [GoncharovaAD](https://github.com/GoncharovaAD)
-- **Telegram**: [@Hectopascal999]
+- **Telegram**: [@Hectopascal999](https://t.me/Hectopascal999)
 - **Location**: Serbia (open to remote work worldwide)
 
 ---
